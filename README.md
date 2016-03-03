@@ -23,8 +23,8 @@
 
 * RandomGenerator -  produces a set number of random numbers.
 
-* SimpleStringReverser - reverses a string using a StringBuffer object
+* SimpleStringReverser - reverses a string using a StringBuffer object.
 
-* StringReverser -  reverses a string.
+* StringReverser -  reverses a string the hard way.
 
 * VowelCounter -  counts the ammount of vowels in a string.
